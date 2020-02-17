@@ -1,0 +1,4 @@
+Hi Guys!
+my name is satyam chauhan.
+i like to code in python and c++.
+currently i am working on my django skills.
